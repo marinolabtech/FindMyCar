@@ -69,7 +69,7 @@ Special handling for aggressive battery saving policies on Xiaomi devices, so th
 
 Find My Car is available for free on Google Play. Autoparking is available as a one-time in-app purchase.
 
-[![Google Play](https://img.shields.io/badge/Get%20it%20on-Google%20Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store)
+[![Google Play](https://img.shields.io/badge/Get%20it%20on-Google%20Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.marinolab.findmycar&pcampaignid=web_share)
 
 ---
 
