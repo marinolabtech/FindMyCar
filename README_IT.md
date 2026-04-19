@@ -69,7 +69,7 @@ Gestione specifica per le policy aggressive di risparmio energetico sui disposit
 
 Find My Car è disponibile gratuitamente su Google Play. L'Autoparking è disponibile come acquisto in-app una tantum.
 
-[![Google Play](https://img.shields.io/badge/Scarica%20su-Google%20Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store)
+[![Google Play](https://img.shields.io/badge/Scarica%20su-Google%20Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.marinolab.findmycar&pcampaignid=web_share)
 
 ---
 
