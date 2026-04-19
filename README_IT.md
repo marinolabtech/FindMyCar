@@ -1,7 +1,7 @@
 # 🚗 Find My Car
 
 [![English](https://img.shields.io/badge/🇬🇧-Read%20in%20English-blue)](README.md)
-[![Google Play](https://img.shields.io/badge/Google_Play-Scarica-3DDC84?logo=google-play&logoColor=white)](https://play.google.com/store)
+[![Google Play](https://img.shields.io/badge/Google_Play-Scarica-3DDC84?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.marinolab.findmycar&pcampaignid=web_share)
 
 **Non dimenticherai mai più dove hai parcheggiato.**
 
@@ -16,6 +16,16 @@ Parcheggia. Scendi dalla macchina. Fine.
 Find My Car rileva quando ti disconnetti dal Bluetooth dell'auto o scolleghi il cavo di ricarica, e salva istantaneamente la tua posizione GPS esatta. Quando hai bisogno di ritrovare la macchina, apri l'app — una bussola 3D in tempo reale ti punta dritta verso di essa.
 
 Non devi ricordarti di aprire l'app. Non devi premere nulla. Funziona e basta.
+
+---
+
+## 🎬 Video
+
+<p align="center">
+  <a href="https://youtube.com/shorts/Oj48FFH8Rmg?feature=share">
+    <img src="https://img.shields.io/badge/Guarda%20su-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Guarda su YouTube"/>
+  </a>
+</p>
 
 ---
 

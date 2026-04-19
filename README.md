@@ -1,7 +1,7 @@
 # 🚗 Find My Car
 
 [![Italian](https://img.shields.io/badge/🇮🇹-Leggi%20in%20Italiano-blue)](README_IT.md)
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-3DDC84?logo=google-play&logoColor=white)](https://play.google.com/store)
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-3DDC84?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.marinolab.findmycar&pcampaignid=web_share)
 
 **Never forget where you parked again.**
 
@@ -16,6 +16,16 @@ Park your car. Get out. That's it.
 Find My Car detects when you disconnect from your car's Bluetooth or unplug the charging cable, and instantly saves your exact GPS location. When you need to find your car, just open the app — a real-time 3D compass points you straight to it.
 
 No need to remember to open the app. No need to press anything. It just works.
+
+---
+
+## 🎬 Video
+
+<p align="center">
+  <a href="https://youtube.com/shorts/Oj48FFH8Rmg?feature=share">
+    <img src="https://img.shields.io/badge/Watch%20on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube"/>
+  </a>
+</p>
 
 ---
 
